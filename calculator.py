@@ -1,8 +1,13 @@
 
+def multiply_hw(a, b):
+    return a * b
+
+
 def div_hw(arg1, arg2):
     if arg2 == 0.0:
         return 'Error: division by zero'
     return arg1 / arg2
+
 
 def main():
     arg1, operation, arg2 = input().split()
@@ -27,4 +32,3 @@ def main():
 
 while True:
     main()
-
