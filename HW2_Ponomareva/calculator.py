@@ -1,7 +1,7 @@
 #  
 def main():
    #  
-    list_action = input('  ').split()
+    list_action = input('Введите выражение: ').split()
 
     # 
     if list_action[1] in ['*', '/', '+', '-']:
