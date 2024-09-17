@@ -1,4 +1,7 @@
-#  
+#! /usr/bin/env python
+
+def multiply(x, y):
+    return x * y
 def main():
    #  
     list_action = input('  ').split()
