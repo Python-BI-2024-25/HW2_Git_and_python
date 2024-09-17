@@ -1,3 +1,6 @@
+def multiply_hw(a, b):
+    return a * b
+
 def main():
     arg1, operation, arg2 = input().split()
     if "." in arg1:
