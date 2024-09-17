@@ -17,7 +17,7 @@ def main():
         elif operator == '/':
             print(f"{num1} / {num2} = {divide(num1, num2)}")
     else:
-        print("   !")            
+        print("Я так не умею!")            
                 
 
 main()
