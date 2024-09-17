@@ -7,7 +7,7 @@ def minus_hw(arg1, arg2):
     return arg1 - arg2
 
 
-def multiply_hw(a, b):
+def multi_hw(a, b):
     return a * b
 
 
