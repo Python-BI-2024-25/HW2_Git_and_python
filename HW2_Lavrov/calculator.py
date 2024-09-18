@@ -1,6 +1,6 @@
 def main():
     a, operator, b =  input().split()
-    
+
     #Переводим строки в соответствующий тип числовых данных
     a = float(a) if "." in a else int(a)
     b = float(b) if "." in b else int(b)
@@ -13,3 +13,8 @@ def main():
     elif operator == "/" and b == 0: print("Деление на ноль!")
 
 main()
+
+#умножение
+def multiplication(a,b):
+   result = a * b
+   return result
