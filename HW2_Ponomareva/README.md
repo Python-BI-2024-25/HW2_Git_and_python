@@ -29,7 +29,7 @@ Lee Arthur
 Ponomareva Anna (TeamLead)
 
 ![Brain Storm](https://github.com/AnnaPNM/HW2_Git_and_python/blob/HW2_Ponomareva/HW2_Ponomareva/HW2%20Ponomareva_Li_Galynin_Anurov.png)
-![Brain Storm]()
+![Brain Storm](https://github.com/AnnaPNM/HW2_Git_and_python/blob/HW2_Ponomareva/HW2_Ponomareva/photo_2024-09-18_21-14-55.jpg)
 
 
 
