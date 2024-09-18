@@ -1,3 +1,7 @@
+    # Вычитание
+def subtraction(a, b):
+    return a - b
+
 def main():
     a, operator, b =  input().split()
     
