@@ -4,6 +4,14 @@ def main():
     #Переводим строки в соответствующий тип числовых данных
     a = float(a) if "." in a else int(a)
     b = float(b) if "." in b else int(b)
+
+
+def divide(x, y):
+    if y == 0:
+        return "Возникла ошибка! Деление на ноль."
+    else:
+        return x / y
+
     
     #Отправляем числа нужной функции на вычисление 
     if operator == "+": print(addition(a, b))
