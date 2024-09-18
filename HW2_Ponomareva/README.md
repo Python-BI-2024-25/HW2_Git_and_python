@@ -28,7 +28,7 @@ Lee Arthur
 
 Ponomareva Anna (TeamLead)
 
-![Brain Storm](https://drive.google.com/file/d/1GSsLqOoVqkNy21COxAHTExcDSt6Th0rS/view?usp=sharing)
+![Brain Storm](HW2 Ponomareva_Li_Galynin_Anurov.png)
 
 
 
