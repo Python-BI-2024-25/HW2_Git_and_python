@@ -8,6 +8,8 @@ Python3
 
 Basic knowledge of math
 
+Sense of humor
+
 
 ### Install: ###
 ```
