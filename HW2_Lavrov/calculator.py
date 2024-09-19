@@ -2,9 +2,19 @@ def division(x,y):
 	return x/y
 
 
+    #Вычитание
+def subtraction(a, b):
+    return a - b
+
+    #Сложение
+def addition(a,b):
+    result = a + b
+    return result
+
+
 def main():
     a, operator, b =  input().split()
-    
+
     #Переводим строки в соответствующий тип числовых данных
     a = float(a) if "." in a else int(a)
     b = float(b) if "." in b else int(b)
