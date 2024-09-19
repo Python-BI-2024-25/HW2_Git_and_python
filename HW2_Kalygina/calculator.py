@@ -37,7 +37,7 @@ def multiply(x, y):
 ## divide()
 def divide (x, y):
   if y == 0:
-    return На ноль делить нельзя"
+    return "На ноль делить нельзя"
   else: return(x / y)
       
 
