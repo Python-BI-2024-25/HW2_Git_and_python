@@ -18,3 +18,8 @@ main()
 def multiplication(a,b):
    result = a * b
    return result
+
+#сложение
+def addition(a,b):
+   result = a + b
+   return result
