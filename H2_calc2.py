@@ -4,6 +4,10 @@ def divide(a, b):
         return "Ошибка: Деление на ноль!"
     return a / b
 
+def p_multiply (a, b):
+    """Функция умножения"""
+    return(a * b)
+
 def main():
     """Главная функция для обработки ввода"""
     expression = input("Введите выражение (например, 5 + 3): ")
@@ -26,7 +30,7 @@ def main():
     elif operator == '-':
         result = subtract(a, b)
     elif operator == '*':
-        result = multiply(a, b)
+        result = p_multiply(a, b)
     elif operator == '/':
         result = divide(a, b)
     else:
