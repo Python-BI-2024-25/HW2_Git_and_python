@@ -1,15 +1,3 @@
-def add(a, b):
-    """Функция для сложения"""
-    return a + b
-
-def subtract(a, b):
-    """Функция для вычитания"""
-    return a - b
-
-def multiply(a, b):
-    """Функция для умножения"""
-    return a * b
-
 def divide(a, b):
     """Функция для деления"""
     if b == 0:
