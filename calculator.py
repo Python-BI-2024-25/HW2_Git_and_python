@@ -2,6 +2,8 @@
 
 ## main()
 ## add()
+def add(x, y):
+    return x + y
 ## subtract()
 ## multiply()
 def multiply(x, y):
