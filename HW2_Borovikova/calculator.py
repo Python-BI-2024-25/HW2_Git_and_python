@@ -22,7 +22,7 @@ def main():
   if built[1] == '+':
     print(addition(number1,number2))
   elif built[1] == '-':
-     print(substract(number1,number2))
+     print(subtract(number1,number2))
   elif built[1] == '*':
     print(multiply(number1,number2))
   elif built[1] == '/':
