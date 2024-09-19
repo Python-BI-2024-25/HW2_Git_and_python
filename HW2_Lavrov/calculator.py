@@ -1,16 +1,13 @@
+def division(x,y):
+	return x/y
+
+
 def main():
     a, operator, b =  input().split()
     
     #Переводим строки в соответствующий тип числовых данных
     a = float(a) if "." in a else int(a)
     b = float(b) if "." in b else int(b)
-
-
-def divide(x, y):
-    if y == 0:
-        return "Возникла ошибка! Деление на ноль."
-    else:
-        return x / y
 
     
     #Отправляем числа нужной функции на вычисление 
