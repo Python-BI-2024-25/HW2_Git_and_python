@@ -1,7 +1,9 @@
 #  Addition
 def addition(n1, n2):
 	return n1 + n2
-
+#Divison
+def divison(x, y):
+	return x / y
 
 #Напишите функцию здесь
 def main():
