@@ -20,7 +20,7 @@ def main():
     else:
         result = "Не то!"
 
-    return result
+    print(result)
 
 ## add()
 def add(x, y):
@@ -37,7 +37,7 @@ def multiply(x, y):
 ## divide()
 def divide (x, y):
   if y == 0:
-    print("На ноль делить нельзя")
+    return На ноль делить нельзя"
   else: return(x / y)
       
 
