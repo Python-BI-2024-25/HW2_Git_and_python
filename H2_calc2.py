@@ -8,6 +8,10 @@ def p_multiply (a, b):
     """Функция умножения"""
     return(a * b)
 
+def sum_lesha(a, b):
+    """Функция сложения"""
+    return(a + b)
+
 def main():
     """Главная функция для обработки ввода"""
     expression = input("Введите выражение (например, 5 + 3): ")
@@ -26,7 +30,7 @@ def main():
         return
 
     if operator == '+':
-        result = add(a, b)
+        result = sum_lesha(a, b)
     elif operator == '-':
         result = subtract(a, b)
     elif operator == '*':
