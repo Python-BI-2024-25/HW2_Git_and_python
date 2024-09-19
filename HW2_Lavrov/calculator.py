@@ -1,3 +1,8 @@
+#умножение
+def multiplication(a,b):
+   result = a * b
+   return result
+
 def main():
     a, operator, b =  input().split()
 
@@ -13,8 +18,3 @@ def main():
     elif operator == "/" and b == 0: print("Деление на ноль!")
 
 main()
-
-#умножение
-def multiplication(a,b):
-   result = a * b
-   return result
