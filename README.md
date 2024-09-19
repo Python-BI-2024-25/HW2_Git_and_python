@@ -1,5 +1,8 @@
 # HW2_Git_and_python
-*This is the repo for the second homework of the BI Python 2024/25 course*
+*This is the repo for the second homework of the BI Python 2024/25 course by the team of Kalygina&Co.*
+
+Here is our [team picture](team_photo.png)!
+![team picture](team_photo.png)
 
 ### Описание ДЗ
 В качестве данного ДЗ вам будет необходимо познакомиться с командной работой через GitHub, а также освежить в памяти основые концепции языка Python, которые вы проходили во вступительном курсе. Прочтите внимательно все инструкции перед тем приступить к выполнению задания, при необоходимости задавайте вопросы в общем чате или личных сообщениях. Текст задания большой потому что подробный. Со временем подробностей в ДЗ будет меньше (хорошо ли это?).
