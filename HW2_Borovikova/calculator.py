@@ -1,3 +1,7 @@
+#  Addition
+def addition(n1, n2):
+	return n1 + n2
+
 
 #Напишите функцию здесь
 def main():
