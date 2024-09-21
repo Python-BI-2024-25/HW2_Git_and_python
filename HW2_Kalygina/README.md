@@ -25,7 +25,7 @@ If the script receives the operator `+`, it performs basic addition:
 
 int_1 + int_2
 
-## Subtract
+### Subtract
 
 For the operator `-`, the script performs subtraction:
 
