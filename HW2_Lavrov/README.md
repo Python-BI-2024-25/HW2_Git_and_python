@@ -13,4 +13,4 @@ Five.
 The programme takes as input a string with a mathematical expression of one operation: addition, multiplication, subtraction, division. The elements of the string must be separated by spaces between each other. 
 
 *Authors: Lavrov, Akinsheva, Makeeva, Hismatullina, Chutko*
-![Image alt](https://github.com/aryamakeeva/HW2_Lavrov/blob/HW2_Lavrov/HW2_Lavrov/marvelous_team.jpg)
+![Image alt](marvelous_team.jpg)
