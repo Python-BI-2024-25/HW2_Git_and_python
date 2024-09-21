@@ -1,6 +1,10 @@
+#умножение
+def multiplication(a,b):
+   result = a * b
+   return result
+
 def division(x,y):
 	return x/y
-
 
     #Вычитание
 def subtraction(a, b):
