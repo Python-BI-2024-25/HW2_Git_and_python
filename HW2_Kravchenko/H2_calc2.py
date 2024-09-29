@@ -1,3 +1,4 @@
+import math
 def divide(a, b):
     """Функция для деления"""
     if b == 0:
